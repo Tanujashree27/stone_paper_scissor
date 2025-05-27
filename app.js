@@ -37,7 +37,7 @@ const playGame = (userChoice) => {
   const compChoice = genCompChoice();
 
   if (userChoice === compChoice) {
-    //Draw Game
+    // IF DRAW GAME
     drawGame();
   } else {
     let userWin = true;
