@@ -7,8 +7,8 @@ A simple Rock-Paper-Scissors game built using **HTML**, **CSS**, and **JavaScrip
 
 * Interactive UI with clickable Rock, Paper, Scissors choices.
 * Real-time score tracking for user and computer.
-* Random computer moves.
-* Instant feedback messages for each round.
+* Random computer moves
+* Instant feedback messages for each round
 
 ---
 
